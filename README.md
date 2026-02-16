@@ -105,7 +105,7 @@ Design-Patterns/
 
 Clone the repository
 
-git clone https://github.com/your-username/Design-Patterns.git
+git clone [https://github.com/your-username/Design-Patterns.git](https://github.com/Akash-tiwari05/design-pattern.git)
 
 
 Open in IntelliJ / Eclipse
