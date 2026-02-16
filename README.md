@@ -1,4 +1,4 @@
-🚀 Java Design Patterns & SOLID Principles
+<h1>🚀 Java Design Patterns & SOLID Principles</h1>  
 
 A structured and practical implementation of Java Design Patterns and SOLID Principles with clean code examples for interviews, placements, and enterprise-level development.
 
